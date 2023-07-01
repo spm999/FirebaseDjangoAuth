@@ -64,8 +64,4 @@ This project is based on the Django framework and utilizes the Firebase Realtime
 ## Contact
 
 If you have any questions or suggestions, feel free to contact the project maintainer at `mshari7185@gmail.com`.
-This project is based on the Django framework and utilizes the Firebase Realtime Database for data storage. We would like to acknowledge the creators and maintainers of these technologies for their contributions.
 
-## Contact
-
-If you have any questions or suggestions, feel free to contact the project maintainer at `mshari7185@gmail.com`.
