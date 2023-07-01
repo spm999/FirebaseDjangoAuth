@@ -1,6 +1,6 @@
 # User Registration and Login with Django and Firebase Realtime Database
 
-This repository provides a Django-based web application that allows users to register, login, and manage their accounts. The application uses Firebase Realtime Database as the backend for storing user data.
+This repository provides a Django-based web application that allows users to register, login, and reset their password. The application uses Firebase Realtime Database as the backend for storing user data.
 
 ## Prerequisites
 
